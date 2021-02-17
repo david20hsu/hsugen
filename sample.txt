@@ -1,0 +1,43 @@
+<HTML>
+<HEAD>
+<TITLE>框窗實作 之網頁 a</TITLE>
+</HEAD>
+<body bgcolor=ffcc00>
+<center><a href="script/cascadingmenu/cascadingmenu.htm" target="3">[ 階層式下拉選單 ] &nbsp;&nbsp;<a href="script/Drop Down Menu Generator/drop-down-menu.htm" target="3">[ 下拉式選單產生器 ] &nbsp;&nbsp;<a href="script/dynamicPopupMenu/dspMenu.htm" target="3">[ 動態跳出式選單 ] &nbsp;&nbsp;<a href="homepage_builder.htm" target="3">[ 網頁立即通 ]
+</HTML>
+
+
+http://www2.ptgsh.ptc.edu.tw/livetech/%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80/homepage/advancehomepage/index3.htm
+<HTML>
+<HEAD>
+<TITLE>框窗實作 3</TITLE>
+</HEAD>
+<FRAMESET ROWS="100,*">
+  <FRAME SRC="a.htm" NAME="1"> 
+  <FRAMESET COLS="120,*">
+      <FRAME SRC="b.htm" NAME="2">
+      <FRAME SRC="c.htm" NAME="3"> 
+  </FRAMESET>
+</FRAMESET>
+</HTML>
+
+
+<HTML>
+<HEAD>
+<TITLE>框窗實作 之網頁 a</TITLE>
+</HEAD>
+<body bgcolor=ccffcc>
+這是第3頁框
+</body>
+</HTML>
+
+
+<HTML>
+<HEAD>
+<TITLE>框窗實作 之網頁 a</TITLE>
+</HEAD>
+<body bgcolor=ccffcc>
+這是第3頁框
+</body>
+</HTML>
+
